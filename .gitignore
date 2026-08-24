@@ -1,0 +1,25 @@
+# Результаты разработки и сборки Nuxt
+.output
+.data
+.nuxt
+.nitro
+.cache
+dist
+coverage
+
+# Зависимости Node.js
+node_modules
+
+# Журналы
+logs
+*.log
+
+# Служебные файлы редакторов и операционной системы
+.DS_Store
+.fleet
+.idea
+
+# Локальные файлы окружения
+.env
+.env.*
+!.env.example
