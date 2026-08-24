@@ -103,3 +103,10 @@ docker-compose up --build
 - `app/components` — переиспользуемые элементы интерфейса;
 - `app/pages` — главная страница и редактор;
 - `app/assets/styles` — общая SCSS-система;
+
+## Скриншоты
+
+<img width="2987" height="1572" alt="2026-08-24_16-35-58" src="https://github.com/user-attachments/assets/41ec5eda-351b-4cfb-b63a-569991195c91" />
+
+<img width="3056" height="1924" alt="2026-08-24_16-35-31" src="https://github.com/user-attachments/assets/ddeb1d01-4449-48da-a93b-b0261c213e46" />
+
